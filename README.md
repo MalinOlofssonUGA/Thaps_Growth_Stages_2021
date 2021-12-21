@@ -1,8 +1,7 @@
 # Thaps_Growth_Stages_2021
-Supplementary figures and tables belonging to Olofsson et al. diatom growth stage experiment
+Supplementary figures and tables belonging to Olofsson et al. diatom growth stage experiment:
 
 
-Overview of files
 
 Supplementary Fig. S1: Photo of bacterial strains on agar plate for identification and correlation between Flow counts and CFU counts.
 
