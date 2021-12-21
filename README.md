@@ -7,7 +7,7 @@ Supplementary Fig. S1: Photo of bacterial strains on agar plate for identificati
 
 Supplementary Fig. S2: Example of NMR compound annotation method. 
 
-Supplementary Fig. S3. Hetapmat of diatom genes across time.
+Supplementary Fig. S3. Heatpmat of diatom genes across time.
 
 
 Supplementary Table S1: Comparison Flow counts and CFU counts used in Figure S1.
