@@ -10,24 +10,23 @@ Supplementary Fig. S2: Example of NMR compound annotation method.
 Supplementary Fig. S3. Heatmap of diatom genes across time.
 
 
-Supplementary Table S1: Comparison Flow counts and CFU counts used in Figure S1.
+Supplementary Table S1: Dissolved inorganic nutrient concentrations.
 
-Supplementary Table S2: Dissolved inorganic nutrient concentrations.
+Supplementary Table S2: Annotation information for metabolites.
 
-Supplementary Table S3: Annotation information for metabolites.
+Supplementary Table S3: Metabolites from NMR analyses as intensity per cell and Z-score. 
 
-Supplementary Table S4: Metabolites from NMR analyses as intensity per cell and Z-score. 
+Supplementary Table S4: Selected genes enriched in Thalassiosira pseudonana. 
 
-Supplementary Table S5: Selected genes enriched in Thalassiosira pseudonana. 
+Supplementary Table S5: Ruegeria pomeroyi genes significantly enriched day 3 vs. day 15.
 
-Supplementary Table S6: Ruegeria pomeroyi genes significantly enriched day 3 vs. day 15.
+Supplementary Table S6: Polaribacter dokdonensis genes significantly enriched day 3 vs day 15. 
 
-Supplementary Table S7: Polaribacter dokdonensis genes significantly enriched day 3 vs day 15. 
+Supplementary Table S7: Ruegeria pomeroyi community and individual bacteria gene expression comparison.
 
-Supplementary Table S8: Ruegeria pomeroyi community and individual bacteria gene expression comparison.
+Supplementary Table S8: Polaribacter dokdonensis community and individual bacteria gene expression comparison.
 
-Supplementary Table S9: Polaribacter dokdonensis community and individual bacteria gene expression comparison.
-
+Supplementay data: Comparison Flow counts and CFU counts used in Figure S1.
 
 
 Link to paper: 
