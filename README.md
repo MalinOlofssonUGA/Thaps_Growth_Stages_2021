@@ -30,6 +30,6 @@ Supplementary Table S8: Community and individual bacteria gene expression compar
 
 Link to paper: 
 
-Link to transcriptomic data: 
+Link to transcriptomic data: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA758094
 
 Link to metabolomics data: http://dx.doi.org/10.21228/M8KT3K 
