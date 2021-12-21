@@ -3,7 +3,7 @@ Supplementary figures and tables belonging to Olofsson et al. diatom growth stag
 
 
 
-Supplementary Fig. S1: Photo of bacterial colonies on agar plate for identification and correlation between Flow counts and CFU counts.
+Supplementary Fig. S1: A, photo of bacterial colonies on agar plate for identification and B, correlation between Flow counts and CFU counts.
 
 Supplementary Fig. S2: Example of NMR compound annotation method. 
 
