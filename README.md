@@ -24,7 +24,9 @@ Supplementary Table S6: Ruegeria pomeroyi genes significantly enriched day 3 vs.
 
 Supplementary Table S7: Polaribacter dokdonensis genes significantly enriched day 3 vs day 15. 
 
-Supplementary Table S8: Community and individual bacteria gene expression comparison.
+Supplementary Table S8: Ruegeria pomeroyi community and individual bacteria gene expression comparison.
+
+Supplementary Table S9: Polaribacter dokdonensis community and individual bacteria gene expression comparison.
 
 
 
